@@ -8,7 +8,7 @@ import os
 # --- БАПТАУЛАР ---
 MODEL_FILENAME = 'final_model.keras'
 # Төмендегі ID-ді 2-ұяшық біткен соң, Google Drive-тан алып қойыңыз!
-GDRIVE_FILE_ID = 'YOUR_FILE_ID_HERE' 
+GDRIVE_FILE_ID = '1LnqMkWRgVRUhOA9pAGqk0j74tUuPmHis' 
 
 # Модельді жүктеу
 @st.cache_resource
